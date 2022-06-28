@@ -1,0 +1,18 @@
+root:x:0:0:root:/root:/bin/bash
+amalia:Usuario erróneo
+
+linoadmin:x:1000:1000::/home/linoadmin:/bin/bash
+franja:x:1001:1001:elprofe:/home/franja:/bin/bash
+franja:x:100000000020:1021::/home/franja:/bin/bash
+amalia:x:1002:1002::/home/amalia:/bin/bash
+david:x:520:520::/home/david:/bin/bash
+
+linoadmin:x:1000:1000::/home/linoadmin:\bin@bash
+
+tom:x:1000:1000:Vivek Gite:/home/otroTom:/bin/bash
+
+Esta línea es errónea
+
+usuario1:x:500:501:usuario pepito:/home/usuario1:/bin/bash
+pepe:12345:1002:1002:Pepe Pótamo,123,981234321,:/home/pepe:/bin/bash
+franja:x:1010:1011:El bueno:/home/franja:/bin/bash
